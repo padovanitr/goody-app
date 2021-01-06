@@ -13,7 +13,7 @@
     "@react-navigation/stack": "^5.2.10",
     "@unform/core": "^2.0.0",
     "@unform/mobile": "^2.0.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "expo": "~37.0.3",
     "formik": "^2.1.4",
     "react": "~16.9.0",
